@@ -1,0 +1,2 @@
+export 'package:spring_boot_frontend/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
+export 'package:spring_boot_frontend/infrastructure/navigation/bindings/controllers/movie_details.controller.binding.dart'; 
